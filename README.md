@@ -37,7 +37,7 @@ Built with Python
 ### Download
 
 1. Go to the [**Releases**](../../releases) page
-2. Download the latest `MailFlowPro-x.x.x.msi` file
+2. Download the latest `MailFlowPro-x.x.x.exe` file
 3. Run the installer and follow the on-screen steps
 4. Launch **MailFlow Pro** from the Start Menu or Desktop shortcut
 
