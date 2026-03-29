@@ -16,7 +16,7 @@ Built with Python
 
 ## 📸 Preview
 
-![MailFlow Pro Screenshot](.github/screenshot.jpg)
+![MailFlow Pro Screenshot](https://i.ibb.co/QjPj6LLj/screenshot.jpg)
 
 ---
 
